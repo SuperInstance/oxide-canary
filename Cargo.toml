@@ -1,4 +1,6 @@
 [package]
+description = "oxide-canary - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/oxide-canary"
 name = "oxide-canary"
 version = "0.1.0"
 edition = "2024"
